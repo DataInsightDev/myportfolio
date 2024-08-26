@@ -1,4 +1,3 @@
-# My portfolio
 This repository contains the source code for my personal portfolio, showcasing my Data Management skills, academic and personal projects, and data visualizations. Use index.html to explore my work. Technologies: HTML, CSS, JavaScript, D3.js, Tableau, Power BI.
 # Optimizing sales strategies for an E-commerce Marketplace
 This project involves creating an interactive dashboard and web application that will enable managers of an e-commerce marketplace to understand and optimize their sales strategies. The project will use data management and analysis techniques to provide actionable insights into product performance, customer satisfaction, and sales forecasts.
