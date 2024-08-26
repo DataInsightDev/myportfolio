@@ -7,7 +7,7 @@ This project involves creating an interactive dashboard and web application that
 - Create an interactive dashboard: Develop a dashboard with Power BI to visualize sales trends, demand forecasts, and key performance indicators (KPIs).
 - Sales forecasting and inventory optimization: Implement forecasting models with Python to predict future sales and recommend optimal inventory levels.
 - Customer satisfaction analysis: Analyze customer satisfaction data to identify areas for improvement in the sales or customer support process.
-# Technologies and tools used :
+# Technologies and tools used:
 - Python (Pandas, NumPy, Scikit-Learn, Prophet)
 - SQL (for data extraction and manipulation)
 - Power BI (for data visualization)
